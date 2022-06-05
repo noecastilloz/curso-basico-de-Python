@@ -1,6 +1,6 @@
 # Curso de Python
 
-![](imagen\images.jpg)
+![](https://github.com/noecastilloz/curso-basico-de-python/blob/main/imagen/images.jpg)
 
 **Requisitos**
 
