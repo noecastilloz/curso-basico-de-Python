@@ -12,3 +12,4 @@
 Lo que esta en azul son links directo para los programas que se van a usar
 ------------------------------------------------
 
+Nuca te rindas, si te caes levantate
